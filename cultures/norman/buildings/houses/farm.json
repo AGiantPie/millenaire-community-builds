@@ -1,0 +1,146 @@
+{
+  "culture": "millenaire:custom",
+  "building_id": "farm",
+  "category": "houses",
+  "native_name": "farm",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 26,
+            "height": 9,
+            "depth": 21
+          },
+          "ground_level": -1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 26,
+            "height": 9,
+            "depth": 21
+          },
+          "ground_level": -1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 26,
+            "height": 11,
+            "depth": 21
+          },
+          "ground_level": -1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 26,
+            "height": 12,
+            "depth": 21
+          },
+          "ground_level": -1
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 26,
+            "height": 14,
+            "depth": 21
+          },
+          "ground_level": -1
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 26,
+            "height": 14,
+            "depth": 21
+          },
+          "ground_level": -1
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 26,
+            "height": 14,
+            "depth": 21
+          },
+          "ground_level": -1
+        }
+      ]
+    },
+	{
+      "variant": "b",
+      "building_orientation": 1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 22,
+            "height": 9,
+            "depth": 22
+          },
+          "ground_level": -1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 22,
+            "height": 9,
+            "depth": 22
+          },
+          "ground_level": -1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 22,
+            "height": 12,
+            "depth": 22
+          },
+          "ground_level": -1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 22,
+            "height": 12,
+            "depth": 22
+          },
+          "ground_level": -1
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 22,
+            "height": 12,
+            "depth": 22
+          },
+          "ground_level": -1
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 22,
+            "height": 12,
+            "depth": 22
+          },
+          "ground_level": -1
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 22,
+            "height": 12,
+            "depth": 22
+          },
+          "ground_level": -1
+        }
+      ]
+    }
+  ]
+}
